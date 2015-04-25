@@ -1,0 +1,61 @@
+Pengujian 2DLPP untuk vein Euclidean Distance
+
+Skenario-1
+Menggunakan jumlah fitur sejumlah 10% dari total sampel (n = 10)
+Akurasi : 32.2%
+Menggunakan jumlah fitur sejumlah 20% dari total sampel (n = 20)
+Akurasi : 42.6%
+Menggunakan jumlah fitur sejumlah 30% dari total sampel (n = 30)
+Akurasi : 46.8%
+Menggunakan jumlah fitur sejumlah 50% dari total sampel (n = 50)
+Akurasi : 56.6%
+
+Skenario-2
+Menggunakan jumlah fitur sejumlah 10% dari total sampel (n = 20)
+Akurasi : 65.5%
+Menggunakan jumlah fitur sejumlah 20% dari total sampel (n = 40)
+Akurasi : 75%
+Menggunakan jumlah fitur sejumlah 30% dari total sampel (n = 60)
+Akurasi : 79.25%
+Menggunakan jumlah fitur sejumlah 50% dari total sampel (n = 100)
+Akurasi : 81.25%
+
+Skenario-3
+Menggunakan jumlah fitur sejumlah 10% dari total sampel (n = 30)
+Akurasi : 74%
+Menggunakan jumlah fitur sejumlah 20% dari total sampel (n = 60)
+Akurasi : 79.6667%
+Menggunakan jumlah fitur sejumlah 30% dari total sampel (n = 90)
+Akurasi : 84%
+Menggunakan jumlah fitur sejumlah 50% dari total sampel (n = 150)
+Akurasi : 86.6667%
+
+Skenario-4
+Menggunakan jumlah fitur sejumlah 10% dari total sampel (n = 40)
+Akurasi : 79%
+Menggunakan jumlah fitur sejumlah 20% dari total sampel (n = 80)
+Akurasi : 86.5%
+Menggunakan jumlah fitur sejumlah 30% dari total sampel (n = 120)
+Akurasi : 89%
+Menggunakan jumlah fitur sejumlah 50% dari total sampel (n = 200)
+Akurasi : 89.5%
+
+Skenario-5
+Menggunakan jumlah fitur sejumlah 10% dari total sampel (n = 50)
+Akurasi : 79%
+Menggunakan jumlah fitur sejumlah 20% dari total sampel (n = 100)
+Akurasi : 88%
+Menggunakan jumlah fitur sejumlah 30% dari total sampel (n = 150)
+Akurasi : 88%
+Menggunakan jumlah fitur sejumlah 50% dari total sampel (n = 250)
+Akurasi : 89%
+
+Skenario-6
+Menggunakan jumlah fitur sejumlah 10% dari total sampel (n = 60)
+Akurasi : 100%
+Menggunakan jumlah fitur sejumlah 20% dari total sampel (n = 120)
+Akurasi : 100%
+Menggunakan jumlah fitur sejumlah 30% dari total sampel (n = 180)
+Akurasi : 100%
+Menggunakan jumlah fitur sejumlah 50% dari total sampel (n = 300)
+Akurasi : 100%

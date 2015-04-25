@@ -1,0 +1,487 @@
+Perbandingan: 0.1:0.9
+
+ans =
+
+   95.5000
+
+Perbandingan: 0.1:0.8
+
+ans =
+
+   95.1667
+
+Perbandingan: 0.1:0.7
+
+ans =
+
+   95.8333
+
+Perbandingan: 0.1:0.6
+
+ans =
+
+    95
+
+Perbandingan: 0.1:0.5
+
+ans =
+
+   94.8333
+
+Perbandingan: 0.1:0.4
+
+ans =
+
+    94
+
+Perbandingan: 0.1:0.3
+
+ans =
+
+   94.3333
+
+Perbandingan: 0.1:0.2
+
+ans =
+
+   93.1667
+
+Perbandingan: 0.1:0.1
+
+ans =
+
+   90.1667
+
+Perbandingan: 0.2:0.9
+
+ans =
+
+   94.8333
+
+Perbandingan: 0.2:0.8
+
+ans =
+
+   94.8333
+
+Perbandingan: 0.2:0.7
+
+ans =
+
+   94.5000
+
+Perbandingan: 0.2:0.6
+
+ans =
+
+   94.1667
+
+Perbandingan: 0.2:0.5
+
+ans =
+
+   94.3333
+
+Perbandingan: 0.2:0.4
+
+ans =
+
+   93.6667
+
+Perbandingan: 0.2:0.3
+
+ans =
+
+    93
+
+Perbandingan: 0.2:0.2
+
+ans =
+
+   92.5000
+
+Perbandingan: 0.2:0.1
+
+ans =
+
+   90.3333
+
+Perbandingan: 0.3:0.9
+
+ans =
+
+   94.6667
+
+Perbandingan: 0.3:0.8
+
+ans =
+
+   94.5000
+
+Perbandingan: 0.3:0.7
+
+ans =
+
+   94.1667
+
+Perbandingan: 0.3:0.6
+
+ans =
+
+   93.6667
+
+Perbandingan: 0.3:0.5
+
+ans =
+
+   93.5000
+
+Perbandingan: 0.3:0.4
+
+ans =
+
+   92.8333
+
+Perbandingan: 0.3:0.3
+
+ans =
+
+   92.1667
+
+Perbandingan: 0.3:0.2
+
+ans =
+
+   91.6667
+
+Perbandingan: 0.3:0.1
+
+ans =
+
+   90.3333
+
+Perbandingan: 0.4:0.9
+
+ans =
+
+    94
+
+Perbandingan: 0.4:0.8
+
+ans =
+
+   93.8333
+
+Perbandingan: 0.4:0.7
+
+ans =
+
+   93.8333
+
+Perbandingan: 0.4:0.6
+
+ans =
+
+   93.5000
+
+Perbandingan: 0.4:0.5
+
+ans =
+
+    93
+
+Perbandingan: 0.4:0.4
+
+ans =
+
+   92.6667
+
+Perbandingan: 0.4:0.3
+
+ans =
+
+   91.8333
+
+Perbandingan: 0.4:0.2
+
+ans =
+
+   90.6667
+
+Perbandingan: 0.4:0.1
+
+ans =
+
+   89.8333
+
+Perbandingan: 0.5:0.9
+
+ans =
+
+   93.3333
+
+Perbandingan: 0.5:0.8
+
+ans =
+
+   93.3333
+
+Perbandingan: 0.5:0.7
+
+ans =
+
+   93.3333
+
+Perbandingan: 0.5:0.6
+
+ans =
+
+   93.1667
+
+Perbandingan: 0.5:0.5
+
+ans =
+
+    93
+
+Perbandingan: 0.5:0.4
+
+ans =
+
+   92.3333
+
+Perbandingan: 0.5:0.3
+
+ans =
+
+   91.6667
+
+Perbandingan: 0.5:0.2
+
+ans =
+
+    91
+
+Perbandingan: 0.5:0.1
+
+ans =
+
+   89.6667
+
+Perbandingan: 0.6:0.9
+
+ans =
+
+   93.3333
+
+Perbandingan: 0.6:0.8
+
+ans =
+
+    93
+
+Perbandingan: 0.6:0.7
+
+ans =
+
+   92.8333
+
+Perbandingan: 0.6:0.6
+
+ans =
+
+    92
+
+Perbandingan: 0.6:0.5
+
+ans =
+
+   91.8333
+
+Perbandingan: 0.6:0.4
+
+ans =
+
+   91.6667
+
+Perbandingan: 0.6:0.3
+
+ans =
+
+    91
+
+Perbandingan: 0.6:0.2
+
+ans =
+
+   90.6667
+
+Perbandingan: 0.6:0.1
+
+ans =
+
+   89.5000
+
+Perbandingan: 0.7:0.9
+
+ans =
+
+   92.8333
+
+Perbandingan: 0.7:0.8
+
+ans =
+
+   92.5000
+
+Perbandingan: 0.7:0.7
+
+ans =
+
+   92.3333
+
+Perbandingan: 0.7:0.6
+
+ans =
+
+   92.3333
+
+Perbandingan: 0.7:0.5
+
+ans =
+
+   91.8333
+
+Perbandingan: 0.7:0.4
+
+ans =
+
+   91.3333
+
+Perbandingan: 0.7:0.3
+
+ans =
+
+   90.5000
+
+Perbandingan: 0.7:0.2
+
+ans =
+
+   90.3333
+
+Perbandingan: 0.7:0.1
+
+ans =
+
+    89
+
+Perbandingan: 0.8:0.9
+
+ans =
+
+   92.5000
+
+Perbandingan: 0.8:0.8
+
+ans =
+
+    92
+
+Perbandingan: 0.8:0.7
+
+ans =
+
+   91.8333
+
+Perbandingan: 0.8:0.6
+
+ans =
+
+   91.1667
+
+Perbandingan: 0.8:0.5
+
+ans =
+
+   90.8333
+
+Perbandingan: 0.8:0.4
+
+ans =
+
+   90.6667
+
+Perbandingan: 0.8:0.3
+
+ans =
+
+   90.3333
+
+Perbandingan: 0.8:0.2
+
+ans =
+
+   90.1667
+
+Perbandingan: 0.8:0.1
+
+ans =
+
+   89.5000
+
+Perbandingan: 0.9:0.9
+
+ans =
+
+   91.8333
+
+Perbandingan: 0.9:0.8
+
+ans =
+
+   91.5000
+
+Perbandingan: 0.9:0.7
+
+ans =
+
+    91
+
+Perbandingan: 0.9:0.6
+
+ans =
+
+   90.6667
+
+Perbandingan: 0.9:0.5
+
+ans =
+
+   90.6667
+
+Perbandingan: 0.9:0.4
+
+ans =
+
+   90.5000
+
+Perbandingan: 0.9:0.3
+
+ans =
+
+   90.3333
+
+Perbandingan: 0.9:0.2
+
+ans =
+
+   90.3333
+
+Perbandingan: 0.9:0.1
+
+ans =
+
+   89.3333
+
+>> 
